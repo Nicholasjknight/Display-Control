@@ -1,0 +1,21 @@
+{
+  "monitors": [
+    [
+      3440,
+      0,
+      6000,
+      1440
+    ]
+  ],
+  "monitor_indices": [
+    1
+  ],
+  "mode": "blank",
+  "file_paths": [],
+  "timeout": 0.1667,
+  "interval": 30,
+  "enabled": true,
+  "scope": "system",
+  "detection_mode": "input",
+  "monitor_modes": {}
+}

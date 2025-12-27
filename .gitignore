@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Build outputs
+build/
+dist/
+installer/build/
+
+# Logs
+overlay.log
+*.log
+
+# Installer packages and temp
+TEMP_INSTALL/
+Customer_Package/
+DisplayControlPlus_Production/
+Test_Extract/
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,31 @@
+{
+  "global_settings": {
+    "version": "2.0.0",
+    "check_interval": 30,
+    "enable_logging": true
+  },
+  "displays": {
+    "display_1": {
+      "name": "Monitor 1",
+      "index": 0,
+      "enabled": true,
+      "timeout_minutes": 3,
+      "mode": "blank",
+      "media_path": "",
+      "media_type": "none",
+      "blank_color": "#000000",
+      "animation_speed": 1.0
+    },
+    "display_2": {
+      "name": "Monitor 2",
+      "index": 1,
+      "enabled": true,
+      "timeout_minutes": 5,
+      "mode": "image",
+      "media_path": "",
+      "media_type": "image",
+      "blank_color": "#000000",
+      "animation_speed": 1.0
+    }
+  }
+}

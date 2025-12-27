@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/Nicholasjknight/Display-Control/releases/download/v1.0.0/DisplayControlPlus.exe",
+  "sha256": "REPLACE_WITH_SHA256",
+  "notes": "Single-file Display Control+ GUI build with --background support."
+}

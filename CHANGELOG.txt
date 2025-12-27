@@ -1,0 +1,9 @@
+Display Control+ Changelog
+=========================
+
+v1.0.0 (2025-07-23)
+- Initial professional release
+- Multi-monitor overlay and screensaver support
+- Modern tray UI with dark theme
+- Robust installer with branding and auto-launch
+- Logging and error handling
